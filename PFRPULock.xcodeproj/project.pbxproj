@@ -9,21 +9,35 @@
 /* Begin PBXBuildFile section */
 		0A810D0C256EC9F90023AFDD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A810D0B256EC9F90023AFDD /* AppDelegate.swift */; };
 		0A810D0E256EC9F90023AFDD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A810D0D256EC9F90023AFDD /* ViewController.swift */; };
-		0A810D10256EC9F90023AFDD /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 0A810D0F256EC9F90023AFDD /* Experience.rcproject */; };
 		0A810D13256EC9F90023AFDD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A810D11256EC9F90023AFDD /* Main.storyboard */; };
 		0A810D15256EC9FF0023AFDD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A810D14256EC9FF0023AFDD /* Assets.xcassets */; };
 		0A810D18256EC9FF0023AFDD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A810D16256EC9FF0023AFDD /* LaunchScreen.storyboard */; };
+		0A8D77BC25702191004C220F /* tv_retro.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 0A8D77B925702190004C220F /* tv_retro.usdz */; };
+		0A8D77BD25702191004C220F /* gramophone.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 0A8D77BA25702190004C220F /* gramophone.usdz */; };
+		0A8D77BE25702191004C220F /* teapot.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 0A8D77BB25702191004C220F /* teapot.usdz */; };
+		0A8D77C5257025CB004C220F /* knife.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 0A8D77C0257025C9004C220F /* knife.usdz */; };
+		0A8D77C6257025CB004C220F /* fender_stratocaster.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 0A8D77C1257025CA004C220F /* fender_stratocaster.usdz */; };
+		0A8D77C7257025CB004C220F /* toy_drummer.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 0A8D77C2257025CA004C220F /* toy_drummer.usdz */; };
+		0A8D77C8257025CB004C220F /* chair_swan.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 0A8D77C3257025CB004C220F /* chair_swan.usdz */; };
+		0A8D77C9257025CB004C220F /* wheelbarrow.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 0A8D77C4257025CB004C220F /* wheelbarrow.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0A810D08256EC9F90023AFDD /* PFRPULock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PFRPULock.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A810D0B256EC9F90023AFDD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0A810D0D256EC9F90023AFDD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		0A810D0F256EC9F90023AFDD /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
 		0A810D12256EC9F90023AFDD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0A810D14256EC9FF0023AFDD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0A810D17256EC9FF0023AFDD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0A810D19256EC9FF0023AFDD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0A8D77B925702190004C220F /* tv_retro.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = tv_retro.usdz; sourceTree = "<group>"; };
+		0A8D77BA25702190004C220F /* gramophone.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = gramophone.usdz; sourceTree = "<group>"; };
+		0A8D77BB25702191004C220F /* teapot.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = teapot.usdz; sourceTree = "<group>"; };
+		0A8D77C0257025C9004C220F /* knife.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = knife.usdz; sourceTree = "<group>"; };
+		0A8D77C1257025CA004C220F /* fender_stratocaster.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = fender_stratocaster.usdz; sourceTree = "<group>"; };
+		0A8D77C2257025CA004C220F /* toy_drummer.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = toy_drummer.usdz; sourceTree = "<group>"; };
+		0A8D77C3257025CB004C220F /* chair_swan.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = chair_swan.usdz; sourceTree = "<group>"; };
+		0A8D77C4257025CB004C220F /* wheelbarrow.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = wheelbarrow.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +72,15 @@
 			children = (
 				0A810D0B256EC9F90023AFDD /* AppDelegate.swift */,
 				0A810D0D256EC9F90023AFDD /* ViewController.swift */,
-				0A810D0F256EC9F90023AFDD /* Experience.rcproject */,
 				0A810D11256EC9F90023AFDD /* Main.storyboard */,
+				0A8D77BA25702190004C220F /* gramophone.usdz */,
+				0A8D77BB25702191004C220F /* teapot.usdz */,
+				0A8D77B925702190004C220F /* tv_retro.usdz */,
+				0A8D77C3257025CB004C220F /* chair_swan.usdz */,
+				0A8D77C1257025CA004C220F /* fender_stratocaster.usdz */,
+				0A8D77C0257025C9004C220F /* knife.usdz */,
+				0A8D77C2257025CA004C220F /* toy_drummer.usdz */,
+				0A8D77C4257025CB004C220F /* wheelbarrow.usdz */,
 				0A810D14256EC9FF0023AFDD /* Assets.xcassets */,
 				0A810D16256EC9FF0023AFDD /* LaunchScreen.storyboard */,
 				0A810D19256EC9FF0023AFDD /* Info.plist */,
@@ -124,9 +145,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A8D77C9257025CB004C220F /* wheelbarrow.usdz in Resources */,
+				0A8D77BE25702191004C220F /* teapot.usdz in Resources */,
 				0A810D18256EC9FF0023AFDD /* LaunchScreen.storyboard in Resources */,
 				0A810D15256EC9FF0023AFDD /* Assets.xcassets in Resources */,
+				0A8D77BC25702191004C220F /* tv_retro.usdz in Resources */,
+				0A8D77C5257025CB004C220F /* knife.usdz in Resources */,
 				0A810D13256EC9F90023AFDD /* Main.storyboard in Resources */,
+				0A8D77C6257025CB004C220F /* fender_stratocaster.usdz in Resources */,
+				0A8D77BD25702191004C220F /* gramophone.usdz in Resources */,
+				0A8D77C8257025CB004C220F /* chair_swan.usdz in Resources */,
+				0A8D77C7257025CB004C220F /* toy_drummer.usdz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,7 +168,6 @@
 			files = (
 				0A810D0E256EC9F90023AFDD /* ViewController.swift in Sources */,
 				0A810D0C256EC9F90023AFDD /* AppDelegate.swift in Sources */,
-				0A810D10256EC9F90023AFDD /* Experience.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -296,7 +324,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.herringapps.PFRPULock;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -315,7 +343,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.herringapps.PFRPULock;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
